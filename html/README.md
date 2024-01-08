@@ -1,3 +1,4 @@
+### Frequently asked interview questions on the topic: HTML
 1. What is HTML and how is it different from XHTML?
 2. Explain the purpose of the <!DOCTYPE> declaration in HTML.
 3. Differentiate between inline and block-level elements in HTML.
